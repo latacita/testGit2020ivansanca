@@ -1,5 +1,9 @@
-DNI:
+DNI: 72150808S
 
+<<<<<<< HEAD
 Vacuna Elegida (Pfizer/Moderna/Oxford): Para aprobar, debes borrar esto.
+=======
+Vacuna Elegida (Pfizer/Moderna/Oxford): Moderna
+>>>>>>> DatosPersonales
 
 Enviar antes del 20 de Enero 2021.

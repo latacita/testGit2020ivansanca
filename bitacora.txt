@@ -6,7 +6,9 @@
 
  Paso   Acción                       Notas
 ====== ============================ ================================
-
+01 clone
+02 checkout -b DatosPersonales
+03 ----
 
 
 

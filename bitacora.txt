@@ -9,13 +9,8 @@
 01 clone
 02 checkout -b DatosPersonales
 03 ----
-
-
-
-
-
-
-
+04 ----
+05 add + commit
 06 log + checkout
 07 checkout -b Antecedentes
 08 atom antecedentes.txt
@@ -23,7 +18,10 @@
 10 checkout
 11 push origin DatosPersonales
 12 DatosPersonales ff Antecedentes Recursiva
-
+13 add + commit
 14 merge --no-ff
 15 add + commit + merge         Se han tenido que solucionar conflictos
-16 -----
+16 add + commit
+17 tag FusionTerminada
+18 push origin master -tags
+19 add + commit + push

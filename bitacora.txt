@@ -18,3 +18,6 @@
 07 checkout -b Antecedentes
 08 atom antecedentes.txt
 09 add + commit
+10 checkout
+11 push origin DatosPersonales
+12 DatosPersonales ff Antecedentes Recursiva

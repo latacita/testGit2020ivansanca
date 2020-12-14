@@ -23,3 +23,7 @@
 10 checkout
 11 push origin DatosPersonales
 12 DatosPersonales ff Antecedentes Recursiva
+
+14 merge --no-ff
+15 add + commit + merge         Se han tenido que solucionar conflictos
+16 -----

@@ -1,8 +1,20 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre):                                      %%
+%% Alumno (Apellidos, Nombre): Iván Sánchez Calderón 72150808S      %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+
+
+
+
+
+
+
+
+06 log + checkout
+07 checkout -b Antecedentes
+08 atom antecedentes.txt
+09 add + commit
